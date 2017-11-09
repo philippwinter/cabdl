@@ -1,0 +1,6 @@
+package: github.com/philippwinter/ny-cab-data
+import:
+- package: github.com/cavaliercoder/grab
+  version: ^2.0.0
+- package: github.com/urfave/cli
+  version: ^1.20.0
