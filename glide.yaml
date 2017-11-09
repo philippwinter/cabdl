@@ -1,4 +1,4 @@
-package: github.com/philippwinter/ny-cab-data
+package: github.com/philippwinter/cabdl
 import:
 - package: github.com/cavaliercoder/grab
   version: ^2.0.0

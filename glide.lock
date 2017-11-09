@@ -1,8 +1,10 @@
-hash: fa52f7ba7df60a40702587e42b9bde7c22a6fafb4aa7d10bd5099aff23c2c4b9
-updated: 2017-11-09T16:20:45.516041+01:00
+hash: 73fd9da878e1ba6c7dfaf8761ece1536029640cf5758d375eae7220b2bdb6bea
+updated: 2017-11-09T18:07:10.119889+01:00
 imports:
 - name: github.com/cavaliercoder/grab
   version: e2cf8055a943781c5f6424590b0495cd59f616f0
+- name: github.com/pkg/errors
+  version: f15c970de5b76fac0b59abb32d62c17cc7bed265
 - name: github.com/urfave/cli
   version: cfb38830724cc34fedffe9a2a29fb54fa9169cd1
 testImports: []
